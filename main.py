@@ -95,4 +95,4 @@ async def news(ctx, count = 3):
 
     
 
-bot.run("MTE1MjkwNzMyMTAzNTQ2ODg3MQ.GuRDsz.vJP6S4HpX01T1132BGTdef4KqdI6sH2vC87BH4")
+bot.run("TOKEN")
